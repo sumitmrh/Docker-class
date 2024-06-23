@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Sumit E-Commerce</title>
+        <title>Sumit Maharjan E-Commerce</title>
 
         <!-- Favicon -->
         <link rel="icon" href="img/favicon.png" type="image/png" />
